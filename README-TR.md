@@ -384,9 +384,9 @@ C: Hayır, yalnızca metadata kaldırılır. Gerçek görsel/video kalitesi değ
 
 ## 📊 İstatistikler
 
-![GitHub repo size](https://img.shields.io/github/repo-size/yourusername/metadata-cleaner)
-![GitHub code size](https://img.shields.io/github/languages/code-size/yourusername/metadata-cleaner)
-![Lines of code](https://img.shields.io/tokei/lines/github/yourusername/metadata-cleaner)
+![GitHub repo size](https://img.shields.io/github/repo-size/cektor/metadata-cleaner)
+![GitHub code size](https://img.shields.io/github/languages/code-size/cektor/metadata-cleaner)
+![Lines of code](https://img.shields.io/tokei/lines/github/cektor/metadata-cleaner)
 
 ---
 
