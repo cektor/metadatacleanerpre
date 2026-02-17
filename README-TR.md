@@ -1,5 +1,9 @@
 # 🔒 Metadata Temizleyici Premium Edition
 
+<p align="center">
+  <img src="app/src/main/res/drawable/metadata.png" alt="Metadata Temizleyici Logo" width="200"/>
+</p>
+
 [![Android](https://img.shields.io/badge/Platform-Android-green.svg)](https://android.com)
 [![API](https://img.shields.io/badge/API-24%2B-brightgreen.svg)](https://android-arsenal.com/api?level=24)
 [![Kotlin](https://img.shields.io/badge/Kotlin-1.9.10-blue.svg)](https://kotlinlang.org)
