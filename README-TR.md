@@ -7,7 +7,7 @@
 [![Android](https://img.shields.io/badge/Platform-Android-green.svg)](https://android.com)
 [![API](https://img.shields.io/badge/API-24%2B-brightgreen.svg)](https://android-arsenal.com/api?level=24)
 [![Kotlin](https://img.shields.io/badge/Kotlin-1.9.10-blue.svg)](https://kotlinlang.org)
-[![License](https://img.shields.io/badge/License-Proprietary-red.svg)](LICENSE)
+[![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 
 🇹🇷 Türkçe | [🇬🇧 English](README.md)
 
@@ -309,9 +309,9 @@ Katkılarınızı bekliyoruz! Nasıl yardımcı olabilirsiniz:
 
 ## 📄 Lisans
 
-Bu proje, ALG Yazılım & Elektronik Inc. tarafından geliştirilen özel yazılımdır.
+Bu proje MIT Lisansı altında lisanslanmıştır - detaylar için [LICENSE](LICENSE) dosyasına bakın.
 
-**Telif Hakkı © 2026 ALG Yazılım & Elektronik Inc. Tüm hakları saklıdır.**
+**Telif Hakkı © 2026 ALG Yazılım & Elektronik Inc.**
 
 ---
 

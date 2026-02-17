@@ -7,7 +7,7 @@
 [![Android](https://img.shields.io/badge/Platform-Android-green.svg)](https://android.com)
 [![API](https://img.shields.io/badge/API-24%2B-brightgreen.svg)](https://android-arsenal.com/api?level=24)
 [![Kotlin](https://img.shields.io/badge/Kotlin-1.9.10-blue.svg)](https://kotlinlang.org)
-[![License](https://img.shields.io/badge/License-Proprietary-red.svg)](LICENSE)
+[![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 
 [🇹🇷 Türkçe](README-TR.md) | 🇬🇧 English
 
@@ -309,9 +309,9 @@ We welcome contributions! Here's how you can help:
 
 ## 📄 License
 
-This project is proprietary software developed by ALG Yazılım & Elektronik Inc.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-**Copyright © 2026 ALG Yazılım & Elektronik Inc. All rights reserved.**
+**Copyright © 2026 ALG Yazılım & Elektronik Inc.**
 
 ---
 
