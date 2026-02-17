@@ -1,7 +1,7 @@
 # 🔒 Metadata Cleaner Premium Edition
 
 <p align="center">
-  <img src="app/src/main/res/drawable/metadata.png" alt="Metadata Cleaner Logo" width="200"/>
+  <img src="metadata.png" alt="Metadata Cleaner Logo" width="200"/>
 </p>
 
 [![Android](https://img.shields.io/badge/Platform-Android-green.svg)](https://android.com)
